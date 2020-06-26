@@ -1,0 +1,2 @@
+tim@gmail.com;1234;tim;2019-03-02
+cezar.adrian@gmail.com;Coleman.1994;cezar;2020-06-26
